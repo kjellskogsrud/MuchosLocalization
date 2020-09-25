@@ -1747,12 +1747,12 @@
 
  END_STORY_EFFECT:0 "You pay this matter no more mind"
 
- FORCE_VOTE_AS_NO_DURATION:0 "Will be forced to vote the same as [TARGET_CHARACTER.GetShortUIName]"
+ FORCE_VOTE_AS_NO_DURATION:0 "Will be forced to feed the same as [TARGET_CHARACTER.GetShortUIName]"
  FORCE_VOTE_AS_NO_DURATION_THIRD:0 "[CHARACTER.GetShortUIName|U] will be forced to vote the same as [TARGET_CHARACTER.GetShortUIName]"
- FORCE_VOTE_AS_NO_DURATION_FIRST:0 "You will be forced to vote the same as [TARGET_CHARACTER.GetShortUIName]"
- FORCE_VOTE_AS:0 "Will be forced to vote the same as [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]"
- FORCE_VOTE_AS_THIRD:0 "[CHARACTER.GetShortUIName|U] will be forced to vote the same as [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]"
- FORCE_VOTE_AS_FIRST:0 "You will be forced to vote the same as [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]"
+ FORCE_VOTE_AS_NO_DURATION_FIRST:0 "You will be forced to feed the same as [TARGET_CHARACTER.GetShortUIName]"
+ FORCE_VOTE_AS:0 "Will be forced to feed the same as [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]"
+ FORCE_VOTE_AS_THIRD:0 "[CHARACTER.GetShortUIName|U] will be forced to feed the same as [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]"
+ FORCE_VOTE_AS_FIRST:0 "You will be forced to feed the same as [TARGET_CHARACTER.GetShortUIName] until [DATE.GetStringLong]"
  
  VASSAL_CONTRACT_SET_OBLIGATION_LEVEL_EFFECT:1 "[feudal_contract|E] gains $OBLIGATION_LEVEL$ #weak ($OBLIGATION_TYPE$ [obligation])#!"
  VASSAL_CONTRACT_SET_OBLIGATION_LEVEL_EFFECT_GLOBAL_PAST:0 "[feudal_contract|E] gained $OBLIGATION_LEVEL$ #weak ($OBLIGATION_TYPE$ [obligation])#!"
@@ -1828,8 +1828,8 @@
  ADD_PERK_PAST_EFFECT:0 "Gained the [PERK.GetName('CHARACTER')] Perk"
  SET_GENERATED_ASEXUALITY_CHANCE_EFFECT:0 "The chance of generated characters being [asexual|E] becomes #V $VALUE$%#!"
  SET_GENERATED_ASEXUALITY_CHANCE_PAST_EFFECT:0 "The chance of generated characters being [asexual|E] is now #V $VALUE$%#!"
- CLEAR_FORCED_VOTE_EFFECT:0 "Becomes free to vote as they wish"
- CLEAR_FORCED_VOTE_PAST_EFFECT:0 "Is now free to vote as they wish"
+ CLEAR_FORCED_VOTE_EFFECT:0 "Becomes free to feed as they wish"
+ CLEAR_FORCED_VOTE_PAST_EFFECT:0 "Is now free to feed as they wish"
  REMOVE_TITLE_LAW_EFFECTS_EFFECT:0 "Remove the [LAW.GetName|V] Law with full effects"
  REMOVE_TITLE_LAW_EFFECTS_PAST_EFFECT:0 "Removed the [LAW.GetName|V] Law with full effects"
  CHANGE_FIRST_NAME_EFFECT:0 "Change first name to $NAME$"

@@ -178,7 +178,7 @@
  GRANT_REVOKE_TITLE_VASSAL_PROVINCE_DOMAIN:0 "#T [CHARACTER.GetUINamePossessive|U] Domain#!"
  GRANT_REVOKE_TITLE_VASSAL_PROVINCE_REALM:1 "#T [CHARACTER.GetUINamePossessive|U] Realm#!\n"
  GRANT_REVOKE_TITLE_PROVINCE_DEJURE_TOOLTIP:1 "De Jure part of [TITLE.GetName]"
- GRANT_TITLE_PROVINCE_TITLE_TOOLTIP:2 "You can grant [TITLE.GetName]\n#I Click to add to grant selection#!"
+ GRANT_TITLE_PROVINCE_TITLE_TOOLTIP:2 "You can grant [TITLE.GetName]\n#I Click to add to grant s#!"
  GRANT_TITLE_PROVINCE_SELECTED_TITLE_TOOLTIP:3 "You are granting [TITLE.GetName]\n#I Click to deselect#!"
  GRANT_REVOKE_TITLE_PROVINCE_VASSAL_TOOLTIP:0 "The Vassal [CHARACTER.GetUIName] will be transferred with [TITLE.GetName]"
  GRANT_VASSAL_CAN_TOOLTIP:2 "You can transfer [CHARACTER.GetUIName]\n#I Click to select [CHARACTER.GetUIName]#!"

@@ -13,7 +13,7 @@
  LEGACY_RESIGN:0 "Exit to Menu"
  LEGACY_RESIGN_TT:0 "#T End the current Game#! \nTakes you back to the main menu"
  LEGACY_NEW_CHARACTER:0 "Select New Character"
- LEGACY_NEW_CHARACTER_TT:0 "#T Open Character Selection#! \nThis allows you to continue playing as another character"
+ LEGACY_NEW_CHARACTER_TT:0 "#T Open Character S#! \nThis allows you to continue playing as another character"
  LEGACY_HEADER:0 "Lineage"
  LEGACY_GAME_OVER:0 "Game Over"
  LEGACY_FOUNDED_HOUSE:0 "#T Founded a [house|E]\n#!Is the founder of House [LegacyItem.GetFoundedHouse.GetName]"

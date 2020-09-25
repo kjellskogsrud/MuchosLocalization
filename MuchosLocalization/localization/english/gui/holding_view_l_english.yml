@@ -92,7 +92,7 @@
  BUILDING_COUNTY_MODIFIER:0 "#T County:#!"
  BUILDING_CHARACTER_MODIFIER:0 "#T Owner:#!"
  HOLDING_VIEW_WRONG_HOLDING_TYPE:0 "#T Wrong type of [holding|E]#!\n[Holding.GetType.GetName|V] holdings cannot be effectively held by characters with [Character.GetGovernment.GetName|V] government and will provide no [taxes|E] or [levies|E]."
- HOLDING_SELECTION_VIEW_WRONG_HOLDING_TYPE:1 "#T Wrong type of [holding|E]#!\nAs a [GetPlayer.GetGovernment.GetName|V] [ruler|E] you may not personally hold [HoldingTypeItem.GetHoldingType.GetName|V] Holdings. You will have to grant the Holding to someone after construction"
+ HOLDING_S_VIEW_WRONG_HOLDING_TYPE:1 "#T Wrong type of [holding|E]#!\nAs a [GetPlayer.GetGovernment.GetName|V] [ruler|E] you may not personally hold [HoldingTypeItem.GetHoldingType.GetName|V] Holdings. You will have to grant the Holding to someone after construction"
  YOUR_HOLDING_TEXT:0 "Your [HOLDING.GetType.GetName] [holding|E]"
  NOT_MY_HOLDING_TEXT:0 "[HOLDING.GetType.GetName] [holding|E]"
  ABSOLUTE_COUNTY_CONTROL:0 "Absolute"

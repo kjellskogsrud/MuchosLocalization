@@ -688,11 +688,11 @@
  adopt_special_succession_decision:0 "Adopt Special Succession Type"
  adopt_special_succession_decision_desc:0 "Partition succession makes us weak and divided. Perhaps the realm's magnates would accept a historical alternative..."
  adopt_special_succession_decision_confirm:0 "Think on the matter"
- adopt_special_succession_decision_tooltip:0 "Replace my partition [succession|E] with a local type of Elective $game_concept_succession$"
- adopt_special_succession_decision_effects.tt:0 "You may pick a form of traditional Elective [succession|E] based on your [culture|E], or your capital's, provided one is available\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]"
+ adopt_special_succession_decision_tooltip:0 "Replace my partition [succession|E] with a local type of Eating contest"
+ adopt_special_succession_decision_effects.tt:0 "You may pick a form of traditional eating contest [succession|E] based on your [culture|E], or your capital's, provided one is available\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]"
  implemented_traditional_succession_law_opinion:0 "Implemented Traditional Succession Law"
  found_kingdom_decision_advanced_succesion:0 "Does not have the Advanced Succession law"
- found_kingdom_decision_elective_succesion:0 "Does not have the Elective Succession law"
+ found_kingdom_decision_elective_succesion:0 "Does not have the Eating contest Succession law"
 
  # Establish Norman Culture
  establish_norman_culture_decision:0 "Establish Norman Culture"

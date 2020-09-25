@@ -31,7 +31,7 @@
  I_LACK_LAW_ALLOWING_SUCCESSION_LAW_CHANGE:2 "You do not have High [crown_authority|E]"
  I_LACK_LAW_ALLOWING_PARTITION_SUCCESSION_LAW_CHANGE:1 "You do not have Limited [crown_authority|E]"
  I_LACK_LAW_ALLOWING_DESIGNATE_HEIR:0 "You do not have Absolute [crown_authority|E]"
- MY_DYNASTY_MEMBER_LEADS_THE_ELECTION:1 "A member of your [dynasty|E] ([CHARACTER.GetPrimaryTitle.GetHeir.GetShortUIName|V]) is leading the election for your [primary_title|E]"
+ MY_DYNASTY_MEMBER_LEADS_THE_:1 "A member of your [dynasty|E] ([CHARACTER.GetPrimaryTitle.GetHeir.GetShortUIName|V]) is leading the  for your [primary_title|E]"
  I_HAVE_POWERFUL_VASSAL_WITH_NEGATIVE_OPINION:1 "You have one or more [powerful_vassals|E] with negative opinion of you"
  designate_heir:0 "Designate as Heir"
  CROWN_AUTHORITY_IS_ON_COOLDOWN:1 "You recently increased Crown Authority. Can be increased again after [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'crown_authority_cooldown') )]"

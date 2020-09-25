@@ -1,5 +1,5 @@
 ﻿l_english:
- #Positive or Negative selection
+ #Positive or Negative s
  quirk_present_positive:0 "[second.Custom('quirk_pos_present')]"
  quirk_present_negative:0 "[second.Custom('quirk_neg_present')]"
  quirk_standalone_positive:0 "[second.Custom('quirk_pos_standalone')]"

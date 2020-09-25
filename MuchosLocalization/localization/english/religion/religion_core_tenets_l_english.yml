@@ -122,7 +122,7 @@
  doctrine_parameter_legalism_increased_faction_sins:0 "[vassals|E] and [counties|E] are more likely to join [factions|E] against a [sinful|E] ruler"
  doctrine_parameter_legalism_modified_law_costs:1 "Reduce law costs by #P -10%#! for each [virtue|E] a ruler has"
  doctrine_parameter_legalism_modified_law_costs_2:0 "Increase law costs by #N 10%#! for each [sin|E] a ruler has"
- doctrine_parameter_legalism_trust_just_leader_active:1 "[electors|E] under elective [succession|E] types are more likely to vote for the choice of their [liege|E] if their Liege is $trait_just$"
+ doctrine_parameter_legalism_trust_just_leader_active:1 "[electors|E] under eating contest [succession|E] types are more likely to feed the choice of their [liege|E] if their Liege is $trait_just$"
  tenet_legalism_law_cost_tooltip:0 "[legalism|E]:\n   My sins and virtues are affecting this by: [SCOPE.ScriptValue('legalism_law_cost_modifier')|-0%]"
  
  tenet_reincarnation_name:0 "Reincarnation"

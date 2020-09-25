@@ -165,7 +165,7 @@
  intrigue_temptation.3021.d:0 "This is hopeless! What an awful idea."
  intrigue_temptation.3021.d.tt:0 "Put the portraits back in the attic"
 
- intrigue_temptation.3022.desc:0 "That was exhausting, but strangely addictive! Now that I have made my selection, I can bring out my quill and write some pretty verses."
+ intrigue_temptation.3022.desc:0 "That was exhausting, but strangely addictive! Now that I have made my s, I can bring out my quill and write some pretty verses."
  intrigue_temptation.3022.a:0 "I only care about [favorite.Custom('RomanticComplimentAdjective')] [favorite.GetFirstNameNoTooltip]."
  intrigue_temptation.3022.b:0 "They are all worthy of my poetry!"
  intrigue_temptation.3022.b.success:0 "They are all thrilled"

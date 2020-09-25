@@ -17,7 +17,7 @@
  stewardship_duty.0017.t:0 "The Voice of Reason"
  stewardship_duty.0017.start.desc:0 "Another council meeting, another conflict. [councillor_1.GetCouncilTitle] [councillor_1.GetFirstName] and [councillor_2.GetCouncilTitle] [councillor_2.GetFirstName] are arguing violently about"
  stewardship_duty.0017.war.desc:0 "the ongoing war."
- stewardship_duty.0017.election.desc:0 "the election of my successor."
+ stewardship_duty.0017..desc:0 "the  of my successor."
  stewardship_duty.0017.building_projects.desc:0 "the upcoming building projects."
  stewardship_duty.0017.troop_training.desc:0 "the training regimen of the troops."
  stewardship_duty.0017.charity_projects.desc:0 "my next charity project."

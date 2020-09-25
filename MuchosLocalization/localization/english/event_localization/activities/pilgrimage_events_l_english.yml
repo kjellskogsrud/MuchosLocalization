@@ -7,7 +7,7 @@
  long_pilgrimage_tt:0 "This is a #V very long#! Pilgrimage"
  medium_pilgrimage_tt:0 "This is a #V long#! Pilgrimage"
  short_pilgrimage_tt:0 "This is a #V short#! Pilgrimage"
- pilgrimage_other_selections_available_tt:0 "I get to consider other Holy Sites"
+ pilgrimage_other_ss_available_tt:0 "I get to consider other Holy Sites"
  pilgrimage_because_i_have_armed_pilgrimages:0 "Because your [faith|E] has the [GetFaithDoctrine('tenet_armed_pilgrimages').GetBaseName] [core_tenet|E]:"
  pilgrimage_because_i_have_tenet_mendicant_preachers:0 "Because your [faith|E] has the [GetFaithDoctrine('tenet_mendicant_preachers').GetBaseName] [core_tenet|E]:"
  pilgrimage_because_i_have_tenet_pentarchy:0 "Because your [faith|E] has the [GetFaithDoctrine('tenet_pentarchy').GetBaseName] [core_tenet|E]:"
