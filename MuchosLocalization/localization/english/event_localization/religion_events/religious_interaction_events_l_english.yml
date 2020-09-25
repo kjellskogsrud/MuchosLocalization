@@ -123,27 +123,27 @@
 ### Literalist Debate by Ewan Cowhig Croft ###
 ##############################################
 
- religious_interaction.2400.t:0 "A Great dance-off"
- religious_interaction.2400.desc:0 "The paige trembles with fear as [recipient.GetSheHe] reads [actor.GetTitledFirstNamePossessive] fiery letter to me, challenging me to a public dance-off about the virtues and vices of our shared faith, and calling into question my adherence to the base tenets of [recipient.GetFaith.GetNameNoTooltip].\n\nMy servant stutters over the words, as the letter's tone leaves no doubt about [actor.GetShortUINamePossessiveNoTooltip] opinion of my piety."
+ religious_interaction.2400.t:0 "A Great Debate"
+ religious_interaction.2400.desc:0 "The paige trembles with fear as [recipient.GetSheHe] reads [actor.GetTitledFirstNamePossessive] fiery letter to me, challenging me to a public debate about the virtues and vices of our shared faith, and calling into question my adherence to the base tenets of [recipient.GetFaith.GetNameNoTooltip].\n\nMy servant stutters over the words, as the letter's tone leaves no doubt about [actor.GetShortUINamePossessiveNoTooltip] opinion of my piety."
  religious_interaction.2400.a:0 "That cur! Challenge accepted!"
- religious_interaction.2400.a.tt_success:0 "The public dance-off humiliates [actor.GetShortUINameNoTooltip]"
+ religious_interaction.2400.a.tt_success:0 "The public debate humiliates [actor.GetShortUINameNoTooltip]"
  religious_interaction.2400.a.tt_fail:0 "[actor.GetShortUINameNoTooltip] successfully calls my faith into question"
  religious_interaction.2400.b:0 "I will not sully [recipient.GetFaith.HighGodNamePossessive] name with this farce."
  religious_interaction.2400.b.tt:0 "[actor.GetShortUINameNoTooltip] will be informed"
- religious_interaction.2400.b_turned_down:0 "[recipient.GetShortUIName|U] has turned down my challenge to dance-off"
+ religious_interaction.2400.b_turned_down:0 "[recipient.GetShortUIName|U] has turned down my challenge to debate"
 
- used_literalist_debate_modifier:0 "Recently danced-off"
- used_literalist_debate_modifier_desc:0 "This character has recently started a dance-off on the fundamentals of their faith."
- literally_debated_modifier:0 "Recently danced-off"
- literally_debated_modifier_desc:0 "This character has recently been engaged in a dance-off on the fundamentals of their faith."
+ used_literalist_debate_modifier:0 "Recently Debated"
+ used_literalist_debate_modifier_desc:0 "This character has recently started a debate on the fundamentals of their faith."
+ literally_debated_modifier:0 "Recently Debated"
+ literally_debated_modifier_desc:0 "This character has recently been engaged in a debate on the fundamentals of their faith."
 
- religious_interaction.2401.desc_intro:0 "My opponent and I meet in a large hall in [debate_locale.GetNameNoTierNoTooltip], standing on wonky tables barely a few feet apart, surrounded by a throng of eager onlookers. A muted hush falls over the crowd, all waiting for the dance-off to begin.\n\n"
+ religious_interaction.2401.desc_intro:0 "My opponent and I meet in a large hall in [debate_locale.GetNameNoTierNoTooltip], standing on wonky tables barely a few feet apart, surrounded by a throng of eager onlookers. A muted hush falls over the crowd, all waiting for the debate to begin.\n\n"
  religious_interaction.2401.desc_won:0 "Over the course of an hour, I demolish [recipient.GetTitledFirstName], attacking [recipient.GetHerHis] piety, [recipient.GetHerHis] sense of virtue, and even calling into question [recipient.GetHerHis] fealty to [actor.GetFaith.HighGodName]. The crowd is vicious, pelting [recipient.GetTitledFirstNameNoTooltip] with rotten eggs and moldy cabbages till [recipient.GetSheHe] flees the hall."
  religious_interaction.2401.desc_lost:0 "[recipient.GetTitledFirstNamePossessive] verbal onslaught begins immediately, barely giving me a chance to rebut, and before long the crowd has decided on the victor.\n\nI soldier on for a few minutes, braving the rain of rotting vegetables, but I'm finally forced to retreat when one of the peasantry hurls a live chicken at my head."
  religious_interaction.2401.a_won:0 "Am I not beloved of [actor.GetFaith.HighGodName]?"
  religious_interaction.2401.a_lost:0 "These people don't understand [actor.GetFaith.GetReligion.GetNameNoTooltip]!"
 
- religious_interaction.2402.desc_won:0 "Despite [actor.GetTitledFirstNamePossessive] cock-sure attitude in challenging me to a dance-off, [actor.GetHerHis] resolve melts before my storm of withering words and pious criticisms. Before long, the crowd joins in, and my opponent retreats under a hail of mouldering vegetables and one particularly-aggressive rooster."
+ religious_interaction.2402.desc_won:0 "Despite [actor.GetTitledFirstNamePossessive] cock-sure attitude in challenging me to a debate, [actor.GetHerHis] resolve melts before my storm of withering words and pious criticisms. Before long, the crowd joins in, and my opponent retreats under a hail of mouldering vegetables and one particularly-aggressive rooster."
  religious_interaction.2402.desc_lost:0 "Though I try my best, [actor.GetTitledFirstName] has clearly researched [actor.GetHerHis] arguments extremely well, and has the crowd eating out of [actor.GetHerHis] hand almost immediately. [actor.GetSheHe|U] continues to berate me for over an hour regardless, accusing me of every vice under the sun, and even insinuating that my loyalty to [recipient.GetFaith.HighGodName] is in question.\n\nEventually, I flee, trailed by a barrage of rotten produce from the crowd."
 
  religious_interaction.2403.desc:0 "[victim.GetTitledFirstName] does not even stand a chance. Although [victim.GetSheHe] believes [victim.GetHerselfHimself] well prepared, I swat away [victim.GetHerHis] feeble arguments like they were flies. With every counterpoint, [victim.GetFirstNameNoTooltip] winces as if struck by a blow. As time passes, [victim.GetSheHe] seems so incapable of defending [victim.GetHerselfHimself] that even the crowd goes silent.\n\n"...and that is why," I say as I raise my hand dramatically, an accusatory finger pointed across the room, "you will never—"\nI stop when I realize [victim.GetFirstNameNoTooltip] is gasping for air and clutching"

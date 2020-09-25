@@ -120,7 +120,7 @@
  pilgrimage.2011.b:0 "This is so comfortable, I might just fall asleep..."
  pilgrimage.2011.b.tt:0 "You have a pleasant nap"
  pilgrimage.2011.c:0 "Tell me, how does this have anything to do with [ROOT.Char.GetFaith.HighGodName]?"
- pilgrimage.2011.c.tt:0 "You engage the mystic in a dance-off"
+ pilgrimage.2011.c.tt:0 "You engage the mystic in debate"
  
  pilgrimage.2012.desc:0 "I cannot quite recall what happened after I entered the mystic tent. All I can remember is vague images and a sense of wooziness.\n\nNow I ask myself whether [mystic.GetSheHe] was ever here at all..."
  pilgrimage.2012.a:0 "[mystic.GetSheHe|U] had a lot of strange ideas."
@@ -188,7 +188,7 @@
  pilgrimage.3002.desc:0 "As my party prepares to break camp, I notice a massive commotion nearby — A naked [naked_preacher.GetWomanMan] has climbed on top of a large rock and is preaching to the assembled crowd.\n\n"The original sin still stains our souls my friends, but that need not be so! If we shed our garbs, can we recover the lost innocence of Adam and Eve... then, and #EMP only#! then, will the Holy Spirit see fit to touch us and show us God's true love!""
  pilgrimage.3002.a:0 "[naked_preacher.GetSheHe|U] has the right idea! I've never felt so close to [ROOT.Char.GetFaith.HighGodName]!"
  pilgrimage.3002.b:0 "Heretic! Get [naked_preacher.GetHerHim] down from there!"
- pilgrimage.3002.c:0 "Challenge [naked_preacher.GetHerHim] to a theological dance-off."
+ pilgrimage.3002.c:0 "Challenge [naked_preacher.GetHerHim] to a theological debate."
  pilgrimage.3002.c.success:0 "You convince the preacher of [naked_preacher.GetHerHis] folly"
  pilgrimage.3002.c.failure:0 "You are unable to counter the preacher's arguments"
  pilgrimage.3002.d:0 "Ignore [naked_preacher.GetHerHim] and continue on my journey."

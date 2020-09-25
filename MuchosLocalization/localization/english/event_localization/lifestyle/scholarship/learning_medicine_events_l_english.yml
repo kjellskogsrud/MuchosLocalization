@@ -233,7 +233,7 @@
  hallucinogenic_visions_uplifting_modifier_desc:0 "This character has received mind-altering revelations of the bliss that awaits the chosen in the hereafter."
  learning_medicine_special.2100.a.tt_failure:0 "I am subjected to nightmares of [ROOT.Char.GetFaith.NegativeAfterLife]"
  hallucinogenic_visions_terrifying_modifier:0 "Horrifying Visions of the Afterlife"
- hallucinogenic_visions_terrifying_modifier_desc:0 "This character is pranked by mind-scarring visions of the horrors that await the unworthy in the hereafter."
+ hallucinogenic_visions_terrifying_modifier_desc:0 "This character is tortured by mind-scarring visions of the horrors that await the unworthy in the hereafter."
  learning_medicine_special.2100.b:0 "This ritual, you must teach it to me..."
  learning_medicine_special.2100.b.tt_success:0 "The peasant reveals [fish_alchemist.GetHerHis] secrets"
  learning_medicine_special.2100.b.tt_success.tt:0 "[fish_alchemist.GetShortUINameNoTooltip] joins my court as a loyal servant"

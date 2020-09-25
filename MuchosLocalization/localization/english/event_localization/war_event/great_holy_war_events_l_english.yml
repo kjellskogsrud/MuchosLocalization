@@ -59,7 +59,7 @@
  great_holy_war.0003.a.hooked:0 "I do not have much of a choice, I gather?"
  great_holy_war.0023.c:0 "I am already doing my part fighting the [target_character.Custom('GetUnbelieverNamePlural')]!"
  great_holy_war.0023.d:0 "This is not my war."
- great_holy_war.0024.dead.recipient.replaced:0 "[ghw_claimant.GetTitledFirstName] is now the new Rightful Airbender of this [the_faith.GHWName]."
+ great_holy_war.0024.dead.recipient.replaced:0 "[ghw_claimant.GetTitledFirstName] is now the new Rightful Candidate of this [the_faith.GHWName]."
  great_holy_war.0024.dead.recipient.open:0 "[former_beneficiary.GetTitledFirstName] died, leaving [target_kingdom.GetNameNoTier] to be claimed by the holiest warrior."
  great_holy_war.0028.dead.beneficiary:0 "With the passing of my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('former_beneficiary'))] [former_beneficiary.GetFirstName], I must choose a new beneficiary for the ongoing [ROOT.Char.GetFaith.GHWName]."
  great_holy_war.0029.converted.beneficiary:0 "The unfortunate conversion of my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('former_beneficiary'))] [former_beneficiary.GetFirstName] has made [former_beneficiary.GetHerHim] unfit to receive any land from the [ROOT.Char.GetFaith.GHWName]."

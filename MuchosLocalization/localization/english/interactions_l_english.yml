@@ -78,7 +78,7 @@
  gift_interaction_notification:0 "Sent Gift"
  demote_to_simple_peasant:0 "#D Demote to simple peasant#!"
  turn_into_cook:0 "#D Turn into Cook#!"
- fairy_godmother_makes_dwarf:0 "#D Fairy godmother makes dwarf#!"
+ fairy_godmother_makes_dwarf:0 "#D Fairy godmother makes dorf#!"
  make_genius_or_insane:0 "#D Make genius or insane#!"
  marry:0 "Marry"
  cannot_host_feast_again_tt:0 "Cannot host feast again"
@@ -98,7 +98,7 @@
  offer_fealty_interaction:0 "Swear Fealty"
  offer_fealty_interaction_desc:0 "Ask [recipient.GetShortUINameNoTooltip] to become your [liege|E]"
  force_vote_in_succession_election_interaction:0 "Force Vote"
- force_vote_in_succession_election_interaction_desc:0 "By using a [hook|E], I can force someone to vote for the same airbender as me for the next [GetDefine('NCharacter', 'FORCED_SUCCESSION_ELECTION_YEARS')] years"
+ force_vote_in_succession_election_interaction_desc:0 "By using a [hook|E], I can force someone to vote for the same candidate as me for the next [GetDefine('NCharacter', 'FORCED_SUCCESSION_ELECTION_YEARS')] years"
  force_vote_in_succession_election_interaction_extra_icon:0 "$hook_extra_icon$"
  tooltip_force_vote_in_succession_election_interaction_effect:0 "I force [recipient.GetTitledFirstName] to vote the same as me for the next [GetDefine('NCharacter', 'FORCED_SUCCESSION_ELECTION_YEARS')] years"
  divorce_character_interaction:0 "Divorce"
@@ -625,7 +625,7 @@
  MUST_BE_OF_SAME_HOUSE_OR_WITHOUT_DYNASTY:0 "[CHARACTER.GetShortUIName|U] is a member of a different House"
  OFFER_VASSALIZATION_INTERACTION_NOTIFICATION:1 "I wish to extend my protection to you as your new liege Lord. All I ask in return is your oath of fealty..."
  GRANT_INDEPENDENCE_INTERACTION_NOTIFICATION:0 "I have decided to grant you your independence. As of today, you are freed from your oath of fealty."
- FORCE_VOTE_INTERACTION_NOTIFICATION:0 "I have decided to leverage my influence over you to force you to vote for my chosen successor in the next eating contest."
+ FORCE_VOTE_INTERACTION_NOTIFICATION:0 "I have decided to leverage my influence over you to force you to vote for my chosen successor in the next election."
  FORCE_JOIN_FACTION_NOTIFICATION:0 "I have decided to leverage my influence over you to force you to join my Faction."
  OFFER_FEALTY_INTERACTION_NOTIFICATION:1 "I humbly ask that you accept my oath of fealty as my new liege Lord."
  REQUEST_ARREST_NOTIFICATION_TEXT:0 "You are hereby under arrest for crimes against the Crown."
@@ -878,9 +878,9 @@
  liege_offer_council_position_exchange:1 "\nI have determined that it is necessary to reorganize my council. Effective immediately, you shall instead serve me as my [target.GetPositionName].\n"
  liege_offer_council_position_liked:1 "\nYou have been a loyal and devoted subject, and I wish to reward you for your service.\n\nIn recognition of this, I am hereby offering you the position of [target.GetPositionName] of [actor.GetPrimaryTitle.GetNameNoTierNoTooltip].\n"
  liege_offer_council_position_powerful:1 "\nAs an influential [recipient.GetTitleAsNameNoTooltip] it is only fair that you have a voice on my council.\n\nIn recognition of this fact, I hereby offer you the position of [target.GetPositionName] of [actor.GetPrimaryTitle.GetNameNoTierNoTooltip].\n"
- liege_offer_council_position_disliked:1 "\nI have come to the inexorable conclusion that you truly are the best airbender I have for my open council position.\n\nThough it pains me to do so so, I am unfortunately obligated to offer you the position of [target.GetPositionName] of [actor.GetPrimaryTitle.GetNameNoTierNoTooltip].\n"
+ liege_offer_council_position_disliked:1 "\nI have come to the inexorable conclusion that you truly are the best candidate I have for my open council position.\n\nThough it pains me to do so so, I am unfortunately obligated to offer you the position of [target.GetPositionName] of [actor.GetPrimaryTitle.GetNameNoTierNoTooltip].\n"
  liege_offer_council_position_skilled:1 "\nYour considerable talents have not gone unnoticed, [recipient.GetFirstNameNoTooltip].\n\nIn recognition of your skills, I would like to offer you the position of [target.GetPositionName] of [actor.GetPrimaryTitle.GetNameNoTierNoTooltip].\n"
- liege_offer_council_position_fallback:1 "\nFortune smiles upon you [recipient.GetFirstNameNoTooltip], for I find myself in need of a new [target.GetPositionName] and you are the only airbender I have available.\n\nI trust you will take the job?\n"
+ liege_offer_council_position_fallback:1 "\nFortune smiles upon you [recipient.GetFirstNameNoTooltip], for I find myself in need of a new [target.GetPositionName] and you are the only candidate I have available.\n\nI trust you will take the job?\n"
  auto_accept_interaction_ai:1 "It is in [TARGET_CHARACTER.GetFirstNamePossessiveNoTooltip] best interests"
 
  council_interaction.0000.opening:0 "[sender.Custom2('AppropriateGreeting', receiver)]"
@@ -918,7 +918,7 @@
  I_CANNOT_BLACKMAIL_OVER_MY_OWN_LOVER_SECRET:0 "I cannot blackmail over my own Lover [secret|E]"
  I_CANNOT_BLACKMAIL_OVER_MY_OWN_BASTARD:0 "I cannot blackmail over my own [bastard|E]"
 
- FORCE_VOTE_IN_SUCCESSION_ELECTION_ALREADY_FORCED:0 "@warning_icon!#X [CHARACTER.GetUINameNotMe] is already controlling [TARGET_CHARACTER.GetShortUINamePossessive] vote in this eating contest#!"
+ FORCE_VOTE_IN_SUCCESSION_ELECTION_ALREADY_FORCED:0 "@warning_icon!#X [CHARACTER.GetUINameNotMe] is already controlling [TARGET_CHARACTER.GetShortUINamePossessive] vote in this election#!"
 
  THEIR_FOLLOWERS_ARE_PROTECTING_THEM:0 "[TARGET_CHARACTER.GetHerHis|U] followers are protecting [TARGET_CHARACTER.GetHerHim]!"
 
@@ -927,10 +927,10 @@
  CHARACTER_IS_REAL_HEAD:1 "You are the [head_of_faith|E]"
  religious_head_equal:0 "$CHARACTER_IS_REAL_HEAD$"
 
- torture_interaction:1 "Prank"
+ torture_interaction:1 "Torture"
  torture_interaction_desc:1 "[torture|E] [recipient.GetShortUINameNoTooltip]"
- I_RECENTLY_TORTURED_SOMEONE:0 "You recently pranked someone"
- CHARACTER_WAS_RECENTLY_TORTURED:0 "[CHARACTER.GetShortUIName|U] was recently pranked"
+ I_RECENTLY_TORTURED_SOMEONE:0 "You recently tortured someone"
+ CHARACTER_WAS_RECENTLY_TORTURED:0 "[CHARACTER.GetShortUIName|U] was recently tortured"
  
  torture_interaction_actor_effects.secrets.tt:0 "Might discover a [secret|E], if [recipient.GetShortUIName] has or knows about one"
 
@@ -940,8 +940,8 @@
  castrate_interaction:0 "Castrate"
  castrate_interaction_desc:0 "Make [recipient.GetShortUINameNoTooltip] a [GetTrait('eunuch').GetName( GetPlayer )]"
 
- I_AM_BEING_TORTURED:0 "You are being pranked!"
- THEY_ARE_BEING_TORTURED:0 "[CHARACTER.GetShortUIName|U] is being pranked"
+ I_AM_BEING_TORTURED:0 "You are being tortured!"
+ THEY_ARE_BEING_TORTURED:0 "[CHARACTER.GetShortUIName|U] is being tortured"
 
  #Recruit to Court
  recruit_guest_interaction:0 "Recruit to Court"
@@ -1113,13 +1113,13 @@
  sun_trial_interaction.non_faith_family:0 "All non-[actor.GetFaith.GetAdjective] [family_members|E] of [recipient.GetTitledFirstName]"
 
  #Literalist Debate
- literalist_debate_interaction:0 "Literalist dance-off"
- literalist_debate_interaction_desc:0 "You challenge this person to a dance-off about the fundamentals of your faith"
- literalist_debate_interaction.tt_modifiers:0 "Every #P virtuous trait#! gives additional chance to win the dance-off, while every #N sinful trait#! increases the chance to lose, regardless of learning"
+ literalist_debate_interaction:0 "Literalist Debate"
+ literalist_debate_interaction_desc:0 "You challenge this person to a debate about the fundamentals of your faith"
+ literalist_debate_interaction.tt_modifiers:0 "Every #P virtuous trait#! gives additional chance to win the debate, while every #N sinful trait#! increases the chance to lose, regardless of learning"
  literalist_debate_interaction.tt_winnings_actor:0 "If you win, you gain [piety|E] from [recipient.GetTitledFirstNameNoTooltip]"
  literalist_debate_interaction.tt_winnings_recipient:0 "If [recipient.GetSheHe] wins, [recipient.GetSheHe] takes [piety|E] from #EMP you!#!"
- literalist_debate_interaction_has_been_debated:1 "This character has been danced-off recently"
- literalist_debate_timing:1 "You have not taken part in a danced-off recently"
+ literalist_debate_interaction_has_been_debated:1 "This character has been debated recently"
+ literalist_debate_timing:1 "You have not taken part in a debate recently"
 
  # Mongol interactions
  mongol_demand_subjugation_interaction:0 "Demand Subjugation"

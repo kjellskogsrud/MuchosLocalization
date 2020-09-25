@@ -17,7 +17,7 @@
  prison.1002.a:0 "Intriguing. Take [recipient.GetHerHim] back to the cell."
  prison.1002.b:0 "I'm not done with you #emp quite#! yet..."
 
- prison.1003.t:0 "Prank"
+ prison.1003.t:0 "Torture"
  prison.1003.rack.desc:0 "Why complicate matters? There is nothing like the good old rack. The sound when bones and sinews snap is quite unforgettable. But not as unforgettable as the pain [recipient.GetTitledFirstName] is soon to experience..."
  prison.1003.whip.desc:0 "Oh, the sweet kiss of the whip! It might look innocent, but it can separate flesh from bones just as well as any knife — a truth [recipient.GetTitledFirstName] is soon to experience. [recipient.GetSheHe|U] will be sleeping on [recipient.GetHerHis] stomach for quite some time..."
  prison.1003.rats.desc:0 ""These rats might seem shy," I say as I strap the bucket to [recipient.GetFirstNamePossessive] exposed chest. "But once it gets warm in there, they will do anything to escape. Luckily for them, their teeth are #emp very#! sharp." [recipient.GetSheHe|U] pleads for mercy as I reach for the glowing coals."

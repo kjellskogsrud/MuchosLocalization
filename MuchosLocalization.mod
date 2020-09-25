@@ -1,7 +1,7 @@
 version="1.0"
 tags={
-	"Fixes"
+	"Localization"
 }
-name="FixHorseEvente"
+name="MuchosLocalization"
 supported_version="1.0.*"
-path="mod/FixHorseEvent"
+path="mod/MuchosLocalization"

@@ -97,7 +97,7 @@
  
  task_train_commanders:0 "Train Commanders"
  task_train_commanders_modifier:0 "$task_train_commanders$"
- task_train_commanders_maa_effect_desc:1 "Men-at-Arms Maintenance: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_total_tooltip')|2P]%#!\n$TAB$Base: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_base_tooltip')|2P]%#!\n$TAB$Councillor's [martial_skill|E]: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_skill_base_tooltip')|2P]%#!"
+ task_train_commanders_maa_effect_desc:1 "Men-with-Arms Maintenance: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_total_tooltip')|2P]%#!\n$TAB$Base: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_base_tooltip')|2P]%#!\n$TAB$Councillor's [martial_skill|E]: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_skill_base_tooltip')|2P]%#!"
  task_train_commanders_maa_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P -[SCOPE.ScriptValue('marshal_train_commanders_maa_maintenance_erudition_bonus_tooltip')|2]%#!"
  task_train_commanders_effect_desc:2 "\n\n#P [SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value')|P]%#! chance of improving or finding a new [commander|E] or [knight|E] each month\n$TAB$Councillor's [martial_skill|E]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_value_base')|P]%#!"
  task_train_commanders_commander_erudition_bonus_desc:0 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('marshal_train_commanders_monthly_chance_erudition_bonus')|P]%#!"

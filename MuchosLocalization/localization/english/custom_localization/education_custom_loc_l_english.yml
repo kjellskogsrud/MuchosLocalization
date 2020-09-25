@@ -65,7 +65,7 @@
  education_learning_1_outcome_description:0 "The pursuit of knowledge never seemed to properly fasten root in [ROOT.Char.GetHerHis] mind, and now time spent among books and tomes seems to be more of a chore for [ROOT.Char.GetHerHim] than a joy."
  education_learning_2_outcome_description:0 "Hardly studious, [ROOT.Char.GetSheHe] at least managed to memorize certain choice quotes from the classics. [ROOT.Char.GetSheHe|U] will probably never write any great theorems, but [ROOT.Char.GetSheHe] might read one or two."
  education_learning_3_outcome_description:0 "An avid learner, [ROOT.Char.GetSheHe] has become quite the purveyor of knowledge, and has proven [ROOT.Char.GetHerselfHimself] fully capable of structuring advanced theoretical and theological arguments."
- education_learning_4_outcome_description:0 "[ROOT.Char.GetHerHis|U] understanding of philosophical and theoretical works is impressive, and [ROOT.Char.GetSheHe] often engages in dance-offs with [ROOT.Char.GetHerHis] former teachers. Even at such a young age [ROOT.Char.GetSheHe] can be heard quoting obscure passages to support new ideas and theories."
+ education_learning_4_outcome_description:0 "[ROOT.Char.GetHerHis|U] understanding of philosophical and theoretical works is impressive, and [ROOT.Char.GetSheHe] often engages in debate with [ROOT.Char.GetHerHis] former teachers. Even at such a young age [ROOT.Char.GetSheHe] can be heard quoting obscure passages to support new ideas and theories."
 
 
  ChildhoodPersonalityTrait_charming:0 "[GetTrait('charming').GetName( ROOT.Char )]"

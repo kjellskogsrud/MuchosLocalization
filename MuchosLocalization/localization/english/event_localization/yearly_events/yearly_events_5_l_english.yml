@@ -150,7 +150,7 @@
  yearly.5040.b.failure.effect.tt:0 "The questioning yields no results"
  yearly.5040.c.a:0 "You would not hide something from your beloved [ROOT.Char.GetTitleTierName], would you?"
  yearly.5040.c.b:0 "I must know what they are hiding, whatever the cost!"
- yearly.5040.c.success.tt:0 "I prank the information out of [whisperer_1.GetFirstNameNoTooltip] and [whisperer_2.GetFirstNameNoTooltip]"
+ yearly.5040.c.success.tt:0 "I torture the information out of [whisperer_1.GetFirstNameNoTooltip] and [whisperer_2.GetFirstNameNoTooltip]"
  yearly.5040.c.failure.tt:0 "[whisperer_1.GetFirstName] and [whisperer_2.GetFirstNameNoTooltip] are uncooperative"
  yearly.5040.d:0 "Eh, I am sure it's probably nothing important..."
  yearly.5041.desc.a:0 "I manage to get closer to the two courtiers without them noticing me.\n\nThey are discussing a scheme orchestrated by [scoped_vassal.GetTitledFirstName] against me!"

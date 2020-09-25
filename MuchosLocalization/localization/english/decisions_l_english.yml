@@ -22,9 +22,9 @@
  host_feast_decision_confirm:0 "Send the invitations"
 
  hire_physician_decision:0 "Search for Physician"
- hire_physician_decision_tooltip:2 "Your servants will suggest a number of suitable airbenders for the position of [court_physician|E]"
- hire_physician_decision_desc:0 "A court physician is essential to care for the sick and wounded at my court. I will ask my servants to bring forth a number of suitable airbenders."
- hire_physician_decision_effect_tooltip:2 "You will be presented with a group of [court_physician|E] airbenders and may hire one of them for a fee"
+ hire_physician_decision_tooltip:2 "Your servants will suggest a number of suitable candidates for the position of [court_physician|E]"
+ hire_physician_decision_desc:0 "A court physician is essential to care for the sick and wounded at my court. I will ask my servants to bring forth a number of suitable candidates."
+ hire_physician_decision_effect_tooltip:2 "You will be presented with a group of [court_physician|E] candidates and may hire one of them for a fee"
  hire_physician_decision_confirm:0 "Start the search"
 
  borrow_from_holy_order_decision:0 "Borrow Gold from Holy Order"
@@ -285,7 +285,7 @@
 
  form_austria_kingdom_decision:0 "Form Archduchy of Austria"
  form_austria_kingdom_decision_confirm:0 "Form the Archduchy of Austria"
- form_austria_kingdom_decision_desc:0 "By gaining enough influence within the Empire, the Austrian Duchy could achieve greater dignity than any other Eating contest sponsor."
+ form_austria_kingdom_decision_desc:0 "By gaining enough influence within the Empire, the Austrian Duchy could achieve greater dignity than any other Elector."
  form_austria_kingdom_decision_tooltip:0 "The Archduchy of Austria will be formed."
  form_austria_kingdom_decision_effect_tooltip:0 "Form the Archduchy of Austria"
 
@@ -678,7 +678,7 @@
  restore_holy_roman_empire_decision_desc:0 "The true Empire in the West lies in tatters, the legacy of Charlemagne shattered by cruel fate. It would take a strong and godly ruler to return Germany's imperial dignity."
  restore_holy_roman_empire_decision_confirm:0 "Renovatio Romani Imperii!"
  restore_holy_roman_empire_decision_tooltip:0 "Revive the Roman Empire in the West"
- decision_refound_hre_control_the_electors.tt:0 "You must control or hold the traditional eating contest sponsor titles: the Duchies of $d_ostmark$, $d_ostfalen$, $d_east_franconia$, and $d_bohemia$, as well as the Counties of $c_trier$, $c_mainz$, and $c_cologne$"
+ decision_refound_hre_control_the_electors.tt:0 "You must control or hold the traditional elector titles: the Duchies of $d_ostmark$, $d_ostfalen$, $d_east_franconia$, and $d_bohemia$, as well as the Counties of $c_trier$, $c_mainz$, and $c_cologne$"
  decision_refound_hre_own_three_kingdoms.tt:0 "You must control at least three kingdom titles"
  restore_holy_roman_empire_decision_effects_de_jure.tt:0 "Any completely controlled kingdoms outside of $e_italy$ will become de jure part of the $e_hre$"
  restore_holy_roman_empire_decision_effects_vassal_opinion.tt:0 "All direct vassals"
@@ -688,11 +688,11 @@
  adopt_special_succession_decision:0 "Adopt Special Succession Type"
  adopt_special_succession_decision_desc:0 "Partition succession makes us weak and divided. Perhaps the realm's magnates would accept a historical alternative..."
  adopt_special_succession_decision_confirm:0 "Think on the matter"
- adopt_special_succession_decision_tooltip:0 "Replace my partition [succession|E] with a local type of Eating contest $game_concept_succession$"
- adopt_special_succession_decision_effects.tt:0 "You may pick a form of traditional Eating Contest [succession|E] based on your [culture|E], or your capital's, provided one is available\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]"
+ adopt_special_succession_decision_tooltip:0 "Replace my partition [succession|E] with a local type of Elective $game_concept_succession$"
+ adopt_special_succession_decision_effects.tt:0 "You may pick a form of traditional Elective [succession|E] based on your [culture|E], or your capital's, provided one is available\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]"
  implemented_traditional_succession_law_opinion:0 "Implemented Traditional Succession Law"
  found_kingdom_decision_advanced_succesion:0 "Does not have the Advanced Succession law"
- found_kingdom_decision_elective_succesion:0 "Does not have the Eating Contest Succession law"
+ found_kingdom_decision_elective_succesion:0 "Does not have the Elective Succession law"
 
  # Establish Norman Culture
  establish_norman_culture_decision:0 "Establish Norman Culture"

@@ -232,7 +232,7 @@
  hunt.4019.a.tt:0 "It will have to do... for now."
 
  hunt.7001.t:1 "$hunt_header$ Encounter"
- hunt.7001.desc:0 "As we ride deep into the [activity_place.GetName] the ground grows wetter and the air grows heavier. Suddenly, from out of the greenery surrounding us, a giant of a man appears — hulking in layer upon layer of dirty clothing.\n\n"Explain yourself!" He shouts, "What are you doing in #EMP my#! marshland?""
+ hunt.7001.desc:0 "As we ride deep into the [activity_place.GetName] the ground grows wetter and the air grows heavier. Suddenly, from out of the greenery surrounding us, a biggly man appears — hulking in layer upon layer of dirty clothing.\n\n"Explain yourself!" He shouts, "What are you doing in #EMP my#! marshland?""
  hunt.7001.a:0 "#EMP Your#! marshland, is it? Then show us around."
  hunt.7001.b:0 "Let's talk this through."
  hunt.7001.b_success:0 "The man understands my arguments... I think"

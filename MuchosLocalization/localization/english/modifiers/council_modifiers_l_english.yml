@@ -89,8 +89,8 @@
  practiced_manners_modifier:0 "Coached on Manners"
  practiced_manners_modifier_desc:0 "This character's manners are beyond reproach"
 
- cheaper_men_at_arms_modifier:0 "Men-at-Arms Negotiation"
- cheaper_men_at_arms_modifier_desc:0 "The maintenance of Men-at-Arms is lower due to skillful negotiation"
+ cheaper_men_at_arms_modifier:0 "Men-with-Arms Negotiation"
+ cheaper_men_at_arms_modifier_desc:0 "The maintenance of Men-with-Arms is lower due to skillful negotiation"
  less_building_time_modifier:0 "Motivated Workers"
  less_building_time_modifier_desc:0 "The builders in this Holding are motivated"
  less_building_cost_modifier:0 "Beneficial Deal"

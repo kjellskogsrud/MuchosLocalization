@@ -69,7 +69,7 @@
  intrigue_intimidation_focus_modifier:1 "[GetFocus('intrigue_intimidation_focus').GetName]"
  intrigue_intimidation_focus_effect_desc:0 "Focusing on Intimidation grants:"
  intrigue_intimidation_focus_desc:0 "Threats, both overt and subtle, guide the path to true power."
- intimidation_name:0 "Prank master"
+ intimidation_name:0 "Torturer"
 
  #Stewardship
  stewardship_lifestyle_name:0 "Stewardship"

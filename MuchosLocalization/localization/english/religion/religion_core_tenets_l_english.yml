@@ -114,7 +114,7 @@
 
  tenet_literalism_name:0 "Literalism"
  tenet_literalism_desc:0 "Our holy texts clearly state divine intent, and human interpretation is of limited value."
- doctrine_parameter_literalist_debate_enabled:0 "May dance-off other lords of the realm at the cost of [opinion|E], to gain or lose [piety|E]"
+ doctrine_parameter_literalist_debate_enabled:0 "May debate other lords of the realm at the cost of [opinion|E], to gain or lose [piety|E]"
 
  tenet_legalism_name:0 "Legalism"
  tenet_legalism_desc:0 "Our laws are the result of generations of wisdom and devoutness, and adhering to them is by its very nature pious. A sinner, no matter who, will never be above the law."
@@ -122,7 +122,7 @@
  doctrine_parameter_legalism_increased_faction_sins:0 "[vassals|E] and [counties|E] are more likely to join [factions|E] against a [sinful|E] ruler"
  doctrine_parameter_legalism_modified_law_costs:1 "Reduce law costs by #P -10%#! for each [virtue|E] a ruler has"
  doctrine_parameter_legalism_modified_law_costs_2:0 "Increase law costs by #N 10%#! for each [sin|E] a ruler has"
- doctrine_parameter_legalism_trust_just_leader_active:1 "[electors|E] under eatint contest [succession|E] types are more likely to vote for the choice of their [liege|E] if their Liege is $trait_just$"
+ doctrine_parameter_legalism_trust_just_leader_active:1 "[electors|E] under elective [succession|E] types are more likely to vote for the choice of their [liege|E] if their Liege is $trait_just$"
  tenet_legalism_law_cost_tooltip:0 "[legalism|E]:\n   My sins and virtues are affecting this by: [SCOPE.ScriptValue('legalism_law_cost_modifier')|-0%]"
  
  tenet_reincarnation_name:0 "Reincarnation"
@@ -273,7 +273,7 @@
  tenet_exaltation_of_pain_name:0 "Exaltation of Pain"
  tenet_exaltation_of_pain_desc:0 "Pain is the universal emotion, violence the universal language. To bestow pain upon another is to give them a blessing, so receive pain one's self is to receive grace."
  doctrine_parameter_torturing_prisoners_grants_piety:0 "#D Torturing [prisoners|E] earn [piety|E] instead of costing [piety|E]#!"
- doctrine_parameter_reduced_stress_from_torture:0 "#D Adherents are resistant to the negative effects of being pranked#!"
+ doctrine_parameter_reduced_stress_from_torture:0 "#D Adherents are resistant to the negative effects of being tortured#!"
  doctrine_parameter_self_mutilation_active:0 "#D Can [decide|E] to Perform Self-Mutilation, earning [piety|E] at the cost of getting the [GetTrait('wounded_1').GetName( GetPlayer )] [trait|E]#!"
 
  tenet_sacred_shadows_name:0 "Sacred Lies"

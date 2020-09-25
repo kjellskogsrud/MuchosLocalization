@@ -36,7 +36,7 @@
  diplomacy_foreign.3003.a_lifestyle_general:0 "I have some excellent war stories to share."
  diplomacy_foreign.3003.a_lifestyle_administrator:0 "The peculiarities of realm administration are just #EMP fascinating!#!"
  diplomacy_foreign.3003.a_lifestyle_schemer:0 "Ooh, I bet [neighboring_ruler.GetSheHe] would love to hear the latest gossip..."
- diplomacy_foreign.3003.a_lifestyle_scholar:0 "Philosophical dance-offs are always an interesting!"
+ diplomacy_foreign.3003.a_lifestyle_scholar:0 "Philosophical debates are always an interesting!"
  diplomacy_foreign.3003.a.tt:1 "Leading with a topic you are knowledgeable about might impress [neighboring_ruler.GetHerHim]"
  diplomacy_foreign.3003.b:2 "Please, tell me about [neighboring_ruler.Custom('subject_of_interest')]."
  diplomacy_foreign.3003.b.tt:1 "You have heard rumors this topic is close to [neighboring_ruler.GetHerHis] heart"

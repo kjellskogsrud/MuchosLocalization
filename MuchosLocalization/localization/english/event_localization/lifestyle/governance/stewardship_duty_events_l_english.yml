@@ -17,7 +17,7 @@
  stewardship_duty.0017.t:0 "The Voice of Reason"
  stewardship_duty.0017.start.desc:0 "Another council meeting, another conflict. [councillor_1.GetCouncilTitle] [councillor_1.GetFirstName] and [councillor_2.GetCouncilTitle] [councillor_2.GetFirstName] are arguing violently about"
  stewardship_duty.0017.war.desc:0 "the ongoing war."
- stewardship_duty.0017.election.desc:0 "the eating contest of my successor."
+ stewardship_duty.0017.election.desc:0 "the election of my successor."
  stewardship_duty.0017.building_projects.desc:0 "the upcoming building projects."
  stewardship_duty.0017.troop_training.desc:0 "the training regimen of the troops."
  stewardship_duty.0017.charity_projects.desc:0 "my next charity project."
@@ -43,7 +43,7 @@
 
  # Wealth Aplenty, by Sean Hughes
  stewardship_duty.1062.t:0 "Wealth Aplenty"
- stewardship_duty.1062.desc:0 "My treasury is brimming with gold and silver, and all expenses are cared for. As a wealthy [ROOT.Char.GetLadyLord] I am expected to offer patronage to some kind of artist or scholar.\n\nAs luck would have it, three potential airbenders just arrived in [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]... but do any of them impress me?"
+ stewardship_duty.1062.desc:0 "My treasury is brimming with gold and silver, and all expenses are cared for. As a wealthy [ROOT.Char.GetLadyLord] I am expected to offer patronage to some kind of artist or scholar.\n\nAs luck would have it, three potential candidates just arrived in [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]... but do any of them impress me?"
  stewardship_duty.1062.a:0 "[client_1.GetTitledFirstNameNoTooltip] is known for growing beautiful gardens."
  stewardship_duty.1062.b:0 "[client_2.GetTitledFirstNamePossessiveNoTooltip] religious poetry has moved many souls."
  stewardship_duty.1062.c:0 "The discoveries made by [client_3.GetTitledFirstNameNoTooltip] show promise."

@@ -293,7 +293,7 @@
  msg_vassal_contract_multiple_levels_invalidated:0 "[obligations|E] Invalidated"
  msg_vassal_contract_multiple_levels_invalidated_desc:0 "[RIGHT_CHARACTER.GetUINamePossessiveNoTooltip] $OBLIGATION_TYPE_0|V$ and $OBLIGATION_TYPE_1|V$ and $COUNT|V$ other obligations have been invalidated"
 
- msg_force_vote_in_succession_election_message:0 "You forced [recipient.GetTitledFirstName] to vote for the same airbender as you for the next [GetDefine('NCharacter', 'FORCED_SUCCESSION_ELECTION_YEARS')] years."
+ msg_force_vote_in_succession_election_message:0 "You forced [recipient.GetTitledFirstName] to vote for the same candidate as you for the next [GetDefine('NCharacter', 'FORCED_SUCCESSION_ELECTION_YEARS')] years."
  msg_recruited_guest_to_court_interaction_title:0 "Recruited Guest to your Court"
  msg_recruited_guest_to_court_interaction_message:0 "[recipient.GetTitledFirstName] is now a member of your [court|E]."
  msg_kicked_courtier_from_court_interaction_title:0 "Dismissed Courtier"

@@ -63,7 +63,7 @@
  adultery.1001.default:0 "Am I really the father as [mother.GetSheHe] claims, or has [mother.GetSheHe] betrayed our marriage?"
  adultery.1001.hard_to_believe:0 "It is hard to believe [mother.GetSheHe] would ever betray me like this, but could it be that I am not the father?"
  adultery.1001.easy_to_believe:0 "It seems all too likely that [mother.GetSheHe] would betray me, and that I am not the father of [mother.GetHerHis] child."
- adultery.1001.desc_sadistic:0 "I would not put it past [mother.GetHerHim] to bear someone else's child simply to prank me."
+ adultery.1001.desc_sadistic:0 "I would not put it past [mother.GetHerHim] to bear someone else's child simply to torture me."
  adultery.1001.desc_lustful:0 "I have always worried that [mother.GetHerHis] insatiable appetite was a general one, and not just for me. Could the child belong to someone else?"
  adultery.1001.desc_deceitful:0 "[mother.GetSheHe|U] claims I am the father, but [mother.GetSheHe] has lied to me many times before."
  adultery.1001.desc_root_trusting:0 "I suspect I might not be the father, but... [mother.GetSheHe|U] would never keep something like that from me, would [mother.GetSheHe]?"

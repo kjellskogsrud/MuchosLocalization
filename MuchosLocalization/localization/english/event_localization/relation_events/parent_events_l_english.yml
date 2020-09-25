@@ -18,7 +18,7 @@
  parent.1004.a:0 ""Please guide me to prudent choices, [parent.Custom('MotherFather')].""
  parent.1004.b:0 "My realm, my treasury!"
  
- parent.1005.desc:0 "There are wise men and women in my realm, but I doubt that a single one of them could best my [parent.Custom('MotherFather')] in dance-off. [parent.GetSheHe|U] always has a surprising perspective or another layer of knowledge to reveal!"
+ parent.1005.desc:0 "There are wise men and women in my realm, but I doubt that a single one of them could best my [parent.Custom('MotherFather')] in debate. [parent.GetSheHe|U] always has a surprising perspective or another layer of knowledge to reveal!"
  parent.1005.a:0 ""Share your wisdom with me, [parent.Custom('MotherFather')]!""
  parent.1005.b:0 "The words dazzle, but are they all that wise?"
 
@@ -63,7 +63,7 @@
  parent.2004.extroverted:0 "\n\n[parent.GetSheHe|U] even acts that way among my courtiers. [parent.GetSheHe|U] pushes me to talk to them, creating situations that are awkward for everyone!"
  parent.2004.introverted:0 "\n\n[parent.GetSheHe|U] preaches about the virtues of solitude, and tries to isolate me from my courtiers!"
  parent.2004.emotional:0 "\n\n[parent.GetSheHe|U] is prone to emotional outbursts, and [parent.GetSheHe] takes full advantage of the fact that I will listen to avoid making a scene."
- parent.2004.levelheaded:0 "\n\n[parent.GetSheHe|U] wants to dance-off me on everything, claiming that to rush into any situation is to forfeit all advantage. The long discussions are taking up far too much time and energy."
+ parent.2004.levelheaded:0 "\n\n[parent.GetSheHe|U] wants to debate me on everything, claiming that to rush into any situation is to forfeit all advantage. The long discussions are taking up far too much time and energy."
  parent.2004.fallback:0 "\n\n[parent.GetSheHe|U] pesters me endlessly with suggestions, and the court is starting to gossip about who truly makes decisions at the [ROOT.Char.Custom('ResidenceBuilding')]!"
  parent.2004.end:0 "I know [parent.GetSheHe] does it out of love, but this is getting ridiculous."
  parent.2004.a:0 "I will order [parent.GetHerHim] to stop!"

@@ -1,7 +1,12 @@
 # MuchosLocalization
 Localization Mod for CK3.
 
-## Currently replaces:
-* Elective - Eating contest
-* Debate - Dance-off
-* Torture - Prank
+## Replacements:
+* Giant - Biggly (and related descriptions).
+* Dwarf - Dorf (and related descriptions).
+* has had incestuous relations - has kept it in the family (and variations on that).
+* Men-at-Arms - Men-with-Arms
+
+
+
+

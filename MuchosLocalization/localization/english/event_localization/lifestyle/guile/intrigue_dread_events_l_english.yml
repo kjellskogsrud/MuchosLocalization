@@ -109,7 +109,7 @@
  
 # Mind Break, by Sean Hughes
  intrigue_dread.4001.t:0 "Exquisite Suffering"
- intrigue_dread.4001.desc.start:0 "I am no longer satisfied with the regular pranks I have become known for inflicting on my prisoners. I wish to create a masterpiece — a work of art which enshrines anguish and suffering, transcending all that I have done before!"
+ intrigue_dread.4001.desc.start:0 "I am no longer satisfied with the regular tortures I have become known for inflicting on my prisoners. I wish to create a masterpiece — a work of art which enshrines anguish and suffering, transcending all that I have done before!"
  intrigue_dread.4001.desc.single:0 "\n\nHowever, I can't help but wonder if [prisoner_1.GetTitledFirstName] is a suitable canvas for my great work?"
  intrigue_dread.4001.desc.multiple:0 "\n\nThe question is, who shall be my canvas?"
  intrigue_dread.4001.a.single:0 "Yes, [prisoner_1.GetSheHe] will do nicely..."
@@ -133,16 +133,16 @@
  intrigue_dread.4002.c.failure.desc:0 "[victim.GetFirstNameNoTooltip] perishes before I can complete the process"
  intrigue_dread.4002.d:0 "I changed my mind, [victim.GetSheHe] is not right for this..."
 
- intrigue_dread.4004.desc:0 "In order to reshape [victim.GetTitledFirstNamePossessive] mind, I must first subject [victim.GetHerHim] to extreme stress.\n\nI should carefully select a method of pranking that [victim.GetFirstNameNoTooltip] will be particularly vulnerable to — in doing so I can ensure that I will inflict the maximum amount of trauma possible."
- intrigue_dread.4004.desc.followup:0 "[victim.GetTitledFirstName] is growing desensitized to my current method of pranking, and it no longer has the same impact it used to. I will need to chose a different approach..."
+ intrigue_dread.4004.desc:0 "In order to reshape [victim.GetTitledFirstNamePossessive] mind, I must first subject [victim.GetHerHim] to extreme stress.\n\nI should carefully select a method of torture that [victim.GetFirstNameNoTooltip] will be particularly vulnerable to — in doing so I can ensure that I will inflict the maximum amount of trauma possible."
+ intrigue_dread.4004.desc.followup:0 "[victim.GetTitledFirstName] is growing desensitized to my current method of torture, and it no longer has the same impact it used to. I will need to chose a different approach..."
  intrigue_dread.4004.o.flavor:0 "This technique's effectiveness will vary based on [victim.GetTitledFirstNamePossessiveNoTooltip] [traits|E]."
- intrigue_dread.4004.a:0 "Pranks and practical jokes."
+ intrigue_dread.4004.a:0 "Physical torture and pain."
  intrigue_dread.4004.b:0 "Starvation and sleep deprivation."
  intrigue_dread.4004.c:0 "Humiliation and degradation."
 
  intrigue_dread.4005.desc:0 "[victim.GetTitledFirstName] has finally given up hope, and no longer fights me in the dungeon.\n\nThis means it is time to move on to the second step, where I must create enough guilt and confusion in [victim.GetHerHis] mind to damage [victim.GetHerHis] sense of morality, purpose, and even identity."
  intrigue_dread.4005.desc.followup:0 "[victim.GetTitledFirstName] is still clinging to the tattered remnants of [victim.GetHerHis] identity, damaged but not yet destroyed. I must employ another tactic to finish the job..."
- intrigue_dread.4005.a:0 "Offer reassuring words... while continuing the epic prank!"
+ intrigue_dread.4005.a:0 "Offer reassuring words... while continuing the torture!"
  intrigue_dread.4005.b:0 "Claim that this is all punishment for [victim.GetHerHis] sins."
  intrigue_dread.4005.c:0 "Let [victim.GetHerHim] expect a reprieve, then crush [victim.GetHerHis] hopes."
 
