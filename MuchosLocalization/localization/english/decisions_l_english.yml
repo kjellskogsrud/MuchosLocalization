@@ -481,7 +481,7 @@
  accept_cannibalism_decision_custom:1 "Your [court_chaplain|E] has to be a [GetTrait('cannibal').GetName( GetPlayer )]"
  accept_cannibalism_decision_custom_not:1 "Your [court_chaplain|E] cannot be a [GetTrait('cannibal').GetName( GetPlayer )]"
 
- found_university_decision:0 "Found University"
+ found_university_decision:0 "Found Center for kids who can't read good."
  found_university_decision_desc:0 "Learned scholars have been congregating within my realm as of late. Many are sought after as teachers, but to pool — and pass on — their knowledge, they need somewhere to gather."
  found_university_decision_tooltip:1 "[special_building|E] Slot: [GetBuilding('generic_university').GetName] will be made available"
  found_university_decision_confirm:1 "Lay the foundation!"
